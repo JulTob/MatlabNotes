@@ -4,9 +4,9 @@ function y=integra(x)
 %
 %       Calcula la integral de la señal 'x'
 %
-%       (c) Ángel A. San Blas
-%           Adrian J. Torregrosa
-%           José Vicente Morro
+%       (c) Angel A. San Blas
+%           Jose V. Morro
+
 
 y = cumsum(x)/100;
 

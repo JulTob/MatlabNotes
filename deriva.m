@@ -4,10 +4,8 @@ function y=deriva(x)
 %
 %       Calcula la derivada de la señal 'x'.
 %
-%       (c) Ángel A. San Blas
-%           Adrian J. Torregrosa
-%           José Vicente Morro
-
+%       (c) Angel A. San Blas
+%           Jose V. Morro
 
 l = length(x);
 y = zeros(l,1);
